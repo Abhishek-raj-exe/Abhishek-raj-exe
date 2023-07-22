@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Abhishek Rajvir
-- 🌱 I’m currently learning python libs
 - 📫 How to reach me ```abhishekrajvir66@gmail.com```
 
 <!---
